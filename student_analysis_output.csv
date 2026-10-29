@@ -1,0 +1,78 @@
+Name,Age,Performance,Department,Job_Selection,Skills,Annual_Package_LPA,Performance_Category
+AARUSHI AGARWAL,18,55,CSE,Yes,"Python, SQL",3.0,Below Average
+AARYAN VERMA,19,62,IT,No,"C++, DSA",5.0,Average
+AASHUTOSH JOSHI,20,69,ECE,No,"HTML, CSS, JavaScript",5.0,Average
+ABHAV CHAUHAN,21,76,EE,Yes,"Python, Excel",8.0,Top
+ABHISHEK GUPTA,22,83,CSE,No,"Java, SQL",8.0,Top
+ADITYA VARDHAN,18,90,IT,No,"Python, SQL",12.0,Top
+AMAN KUMAR,19,97,ECE,Yes,"C++, DSA",12.0,Top
+ANANT DAGAR,20,58,EE,No,"HTML, CSS, JavaScript",3.0,Below Average
+ANANYA SRIVASTAVA,21,65,CSE,No,"Python, Excel",5.0,Average
+ANKIT SINGH,22,72,IT,Yes,"Java, SQL",5.0,Average
+ANSHUL YADAV,18,79,ECE,No,"Python, SQL",8.0,Top
+ANUBHAV TYAGI,19,86,EE,No,"C++, DSA",8.0,Top
+ANUJ SHUKLA,20,93,CSE,Yes,"HTML, CSS, JavaScript",12.0,Top
+ANURAG TRIPATHI,21,100,IT,No,"Python, Excel",12.0,Top
+ARYAN GUPTA,22,61,ECE,No,"Java, SQL",5.0,Average
+ASHISH SONI,18,68,EE,Yes,"Python, SQL",5.0,Average
+ASHU KUMAR THAKUR,19,75,CSE,No,"C++, DSA",8.0,Top
+ASHUTOSH PATRO,20,82,IT,No,"HTML, CSS, JavaScript",8.0,Top
+ASTHA MISHRA,21,89,ECE,Yes,"Python, Excel",8.0,Top
+BHOOMI JAISWAL,22,96,EE,No,"Java, SQL",12.0,Top
+BITU SHARMA,18,57,CSE,No,"Python, SQL",3.0,Below Average
+DEEPAK SHARMA,19,64,IT,Yes,"C++, DSA",5.0,Average
+DEVESH GUPTA,20,71,ECE,No,"HTML, CSS, JavaScript",5.0,Average
+DIPANSHU PAL,21,78,EE,No,"Python, Excel",8.0,Top
+DIVYANSH DIGARI,22,85,CSE,Yes,"Java, SQL",8.0,Top
+DUSHIENTH RANA,18,92,IT,No,"Python, SQL",12.0,Top
+GAURAV YADAV,19,99,ECE,No,"C++, DSA",12.0,Top
+HARSHIT MEHTA,20,60,EE,Yes,"HTML, CSS, JavaScript",5.0,Average
+HARSHITA SINGH,21,67,CSE,No,"Python, Excel",5.0,Average
+HIMANSHU SAW,22,74,IT,No,"Java, SQL",5.0,Average
+ISHA KUMARI,18,81,ECE,Yes,"Python, SQL",8.0,Top
+KHARANSHU GUPTA,19,88,EE,No,"C++, DSA",8.0,Top
+KRITIKA SHIVHARE,20,95,CSE,No,"HTML, CSS, JavaScript",12.0,Top
+LAVI YADAV,21,56,IT,Yes,"Python, Excel",3.0,Below Average
+MAHIMA PATEL,22,63,ECE,No,"Java, SQL",5.0,Average
+MANISH KUMAR YADAV,18,70,EE,No,"Python, SQL",5.0,Average
+MANYA CHAHAL,19,77,CSE,Yes,"C++, DSA",8.0,Top
+MOHD ARQAM,20,84,IT,No,"HTML, CSS, JavaScript",8.0,Top
+MOHD IKAN,21,91,ECE,No,"Python, Excel",12.0,Top
+MOKSHIT TYAGI,22,98,EE,Yes,"Java, SQL",12.0,Top
+NEHA,18,59,CSE,No,"Python, SQL",3.0,Below Average
+NIKHIL KUSHWAHA,19,66,IT,No,"C++, DSA",5.0,Average
+PRERNA JAIN,20,73,ECE,Yes,"HTML, CSS, JavaScript",5.0,Average
+PRIYANK DEVAL,21,80,EE,No,"Python, Excel",8.0,Top
+PRIYANSHI PANDEY,22,87,CSE,No,"Java, SQL",8.0,Top
+PRIYANSHU KUMAR,18,94,IT,Yes,"Python, SQL",12.0,Top
+RAJAT PATEL,19,55,ECE,No,"C++, DSA",3.0,Below Average
+RAJDEEP NIRANJAN,20,62,EE,No,"HTML, CSS, JavaScript",5.0,Average
+RIDHI JAIN,21,69,CSE,Yes,"Python, Excel",5.0,Average
+RIMJHIM SHARMA,22,76,IT,No,"Java, SQL",8.0,Top
+RISHI RANJAN KUMAR,18,83,ECE,No,"Python, SQL",8.0,Top
+SAMEER SINGH,19,90,EE,Yes,"C++, DSA",12.0,Top
+SANDEEP SHARMA,20,97,CSE,No,"HTML, CSS, JavaScript",12.0,Top
+SHIVANSH MISHRA,21,58,IT,No,"Python, Excel",3.0,Below Average
+SHREYA KUMARI,22,65,ECE,Yes,"Java, SQL",5.0,Average
+SHRIRAM SAINI,18,72,EE,No,"Python, SQL",5.0,Average
+SHUBHAM GIRI,19,79,CSE,No,"C++, DSA",8.0,Top
+SHUBHAM YADAV,20,94,ECE,Yes,"HTML, CSS, JavaScript",12.0,Top
+SHUBHI SINGH,21,93,ECE,No,"Python, Excel",12.0,Top
+SIDDHARTH,22,100,EE,No,"Java, SQL",12.0,Top
+SOMYA,18,61,CSE,Yes,"Python, SQL",5.0,Average
+SONU KUMAR,19,68,IT,No,"C++, DSA",5.0,Average
+SUJAL TOMAR,20,75,ECE,No,"HTML, CSS, JavaScript",8.0,Top
+TANMAY,21,82,EE,Yes,"Python, Excel",8.0,Top
+UNNATI CHAUDHARY,22,89,CSE,No,"Java, SQL",8.0,Top
+UTKARSH SINGH,18,96,IT,No,"Python, SQL",12.0,Top
+VANSH RAJ SINGH,19,57,ECE,Yes,"C++, DSA",3.0,Below Average
+VANSHIKA,20,64,EE,No,"HTML, CSS, JavaScript",5.0,Average
+VANSHIKA,21,71,CSE,No,"Python, Excel",5.0,Average
+VEDANT CHAUDHARY,22,78,IT,Yes,"Java, SQL",8.0,Top
+VIKRAM MAURYA,18,85,ECE,No,"Python, SQL",8.0,Top
+YASH PARASHAR,19,92,EE,No,"C++, DSA",12.0,Top
+YASHI APANSHI,20,99,CSE,Yes,"HTML, CSS, JavaScript",12.0,Top
+YOGESH TIWARI,21,60,IT,No,"Python, Excel",5.0,Average
+YUG GARG,22,67,ECE,No,"Java, SQL",5.0,Average
+AMAAN RAZA,18,74,EE,Yes,"Python, SQL",5.0,Average
+SWATI KUMARI,19,81,CSE,No,"C++, DSA",8.0,Top
